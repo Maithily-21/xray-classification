@@ -10,9 +10,13 @@ The model was trained on the [Kaggle Chest X-ray Pneumonia Dataset](https://www.
 xray-classification/
 
 │── model/ # Folder containing trained model (.h5)
-│└── pre_trained_model_2.h5
+
+ └── pre_trained_model_2.h5
+ 
 │── xray_model.ipynb # Notebook with training & evaluation
+
 │── requirements.txt # Dependencies
+
 │── README.md # Project documentation
 
 ---
